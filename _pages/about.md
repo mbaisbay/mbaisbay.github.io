@@ -14,7 +14,7 @@ I am currently collaborating with Prof. Preslav Nakov at MBZUAI, where I co-deve
 
 I am a Fellow of the Yessenov Foundation Advanced LLM Program (~5% acceptance), a Fellow of the AI Safety & LLM Evaluation Program at Monoid, and placed in the top 9 globally in the SemEval 2026 Machine-Generated Code Detection task.
 
-I am actively seeking PhD / research opportunities in NLP, AI Safety, and Machine Learning.
+I am actively seeking MSc / research opportunities in NLP, AI Safety, and Machine Learning.
 
 ## Research Interests
 * Trustworthy Multilingual NLP and Factuality
