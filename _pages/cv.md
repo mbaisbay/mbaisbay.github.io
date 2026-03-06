@@ -1,64 +1,57 @@
 ---
+
 layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+
+* /resume
+
 ---
 
-{% include base_path %}
+## Education
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Nazarbayev University** | Astana, Kazakhstan
+* BSc in Computer Science; CGPA 3.53/4.0 (Top 5%)
+* August 2022 - June 2026
+* Honors: Full government scholarship & stipend; Dean's List for Academic Excellence (Spring 2025)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Athens NLP 2025: Machine Learning Summer School** | Athens, Greece
+* September 4-10, 2025
+* Selected as 1 of 3 undergraduate students among 90 participants for an intensive NLP program.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+## Research Experience
+
+* **MBZUAI NLP Collaboration** | Machine Learning Researcher | Remote
+* *November 2025 - Present* * Co-developed CHARMemes, a 23,025-example benchmark of harmful memes from the Runet ecosystem using LLM-assisted annotation.
+* Architected a LangGraph multi-agent system automating MBFC methodology for automated fact-checking.
+* Fine-tuned DeBERTa-v3-Large classifiers for propaganda-technique identification, outperforming a direct LLM baseline by 7% FACTScore.
+
+
+* **Outpeer.AI** | Machine Learning Researcher | Astana, Kazakhstan
+* *January 2026 - Present* * Fine-tuned Vision-Language Models (Paddle OCR-VL1.5, GLM-OCR, HunyuanOCR) for structural layout extraction.
+* Designed an agreement-based ensemble routing low-confidence cases to a frontier LLM, reducing API costs by 80%.
+
+
+* **Nazarbayev University** | Research Assistant | Astana, Kazakhstan
+* *January 2025 - Present* * Developed a multi-agent LLM pipeline to classify groundwater governance across 157 national laws.
+* Built a retrieval and re-ranking pipeline for comparative legal analysis using sliding-window chunking, multiple embeddings, and a BGE Re-Ranker.
+
+## Publications
+
+* M. Baisbay*, I. Nagiyev*, N. Laiyk*, D. Orel, and P. Nakov, "CHARMemes: Collection of Harmful Runet Memes." Submitted to ACL Rolling Review (ARR), January 2026. (* Equal Contribution)
+
+## Technical Skills
+
+* **Languages & Tools:** Python, C++, C, SQL, Git, Linux, Bash, Docker, Weights & Biases (WandB)
+* **ML/AI:** PyTorch, Hugging Face Transformers, LangChain, LangGraph, OpenAI API, FAISS, RAG
+
+## Honors & Competitions
+
+* **Yessenov Foundation Scholarship & Advanced LLM Program** | Fellow/Grant Recipient
+* **AI Safety & LLM Evaluation Program | Monoid** | Fellow
+* **SemEval 2026 Task 13: Machine-Generated Code Detection** | Top 9 Global Finish
