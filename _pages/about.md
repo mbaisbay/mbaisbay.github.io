@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
-
 I am a BSc in Computer Science student at Nazarbayev University (2022–June 2026) in Astana, Kazakhstan. My research primarily focuses on Trustworthy Multilingual NLP, Multimodal Safety, Factuality, and Low-Resource Language Technologies. I am particularly interested in evaluating model alignment, automating fact-checking pipelines, and exploring the mechanistic interpretability of LLMs.
 
 My recent research work includes an NLP Collaboration at the Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) under Prof. Preslav Nakov. There, I co-developed CHARMemes, a 23,025-example benchmark for harmful meme detection in the Runet ecosystem, and architected a LangGraph multi-agent system automating MBFC methodology for automated fact-checking.
