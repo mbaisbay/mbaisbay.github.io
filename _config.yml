@@ -12,7 +12,7 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 # The Author / Sidebar
 author:
   name             : "Miras Baisbay"
-  avatar           : "profile.png" # Place a square profile image in the /images/ folder and put the filename here
+  avatar           : "profile.jpg" # Place a square profile image in the /images/ folder and put the filename here
   bio              : "NLP/ML Researcher focusing on AI Safety, CoT Monitoring, Mechanistic Interpretability, and LLM reasoning."
   location         : "Kazakhstan"
   employer         : "Nazarbayev University / Outpeer.AI"
